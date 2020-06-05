@@ -1,3 +1,4 @@
+[![CircleCI](https://circleci.com/gh/cezannec/ML-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/cezannec/ML-microservice-kubernetes)
 
 ## Repository Overview
 
